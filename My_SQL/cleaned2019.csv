@@ -1,0 +1,51 @@
+Track URI,Track Name,Album Name,Artist Name(s),Release Date,Duration (ms),Popularity,Explicit,Genres,Record Label,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,thank u next,thank u next,Ariana Grande,2019-02-08,207320,82,True,pop,Republic Records,0.72,0.654,-5.634,1,0.0647,0.227,0.0,0.101,0.411,106.976,4
+spotify:track:2Fxmhks0bxGSBdJ92vM42m,bad guy,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,2019-03-29,194087,85,False,,Darkroom/Interscope Records,0.701,0.425,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,4
+spotify:track:6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes (Deluxe),"Shawn Mendes,Camila Cabello",2019-06-19,190799,83,False,,Island Records,0.759,0.548,-6.049,0,0.0289,0.0379,0.0,0.0828,0.75,116.963,4
+spotify:track:6ocbgoVGwYJhOv1GgI9NsF,7 rings,thank u next,Ariana Grande,2019-02-08,178626,86,True,pop,Republic Records,0.777,0.317,-10.732,0,0.308,0.591,0.0,0.0881,0.33,139.848,4
+spotify:track:0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,"Post Malone,Swae Lee",2019-09-06,157560,85,False,,Republic Records,0.755,0.522,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,4
+spotify:track:2vXKRlJBXyOcvZYTdNeckS,Lost in the Fire (feat. The Weeknd),Hyperion,"Gesaffelstein,The Weeknd",2019-03-08,202093,84,True,,Columbia,0.658,0.671,-12.21,1,0.0364,0.0928,0.000919,0.115,0.165,100.967,4
+spotify:track:6FZDfxM3a3UCqtzo5pxSLZ,Without Me,Manic,Halsey,2020-01-17,201660,85,True,,Capitol Records,0.752,0.488,-7.05,1,0.0705,0.293,9.2e-06,0.0936,0.533,136.07,4
+spotify:track:0Oqc0kKFsQ6MhFOLBNZIGX,Doin' Time,Norman Fucking Rockwell!,Lana Del Rey,2019-08-30,202192,81,True,,Polydor Records,0.641,0.559,-11.132,0,0.0355,0.404,0.00402,0.0937,0.523,144.982,4
+spotify:track:2VxeLyX666F8uXCJ0dZF8B,Shallow,A Star Is Born Soundtrack,"Lady Gaga,Bradley Cooper",2018-10-05,215733,88,False,"art pop,pop",A Star is Born OST,0.577,0.385,-6.362,1,0.03,0.371,0.0,0.231,0.331,95.82,4
+spotify:track:4kV4N9D1iKVxx1KLvtTpjS,break up with your girlfriend i'm bored,thank u next,Ariana Grande,2019-02-08,190440,77,True,pop,Republic Records,0.727,0.554,-5.29,0,0.0915,0.0421,0.0,0.106,0.335,170.0,4
+spotify:track:7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,182160,90,False,soft pop,Vertigo Berlin,0.501,0.405,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,4
+spotify:track:6ZRuF2n1CQxyxxAAWsKJOy,Nights Like This (feat. Ty Dolla $ign),While We Wait,"Kehlani,Ty Dolla $ign",2019-02-22,201787,77,True,trap soul,TSNMI / Atlantic,0.61,0.725,-5.131,1,0.15,0.367,0.0,0.154,0.291,146.163,4
+spotify:track:0PG9fbaaHFHfre2gUVo7AN,Please Me,Please Me,"Cardi B,Bruno Mars",2019-02-15,200889,82,True,,Atlantic/KSR,0.747,0.57,-6.711,1,0.081,0.0642,0.0,0.0832,0.65,133.992,4
+spotify:track:4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Rare,Selena Gomez,2020-01-10,206458,81,False,,Interscope Records,0.516,0.342,-8.985,1,0.0425,0.55,0.0,0.21,0.0993,102.819,4
+spotify:track:0Ryd8975WihbObpp5cPW1t,boyfriend (with Social House),boyfriend,"Ariana Grande,Social House",2019-08-02,186106,81,True,pop,Republic Records,0.4,0.795,-3.731,0,0.461,0.119,0.0,0.159,0.702,190.097,4
+spotify:track:43zdsphuZLzwA9k4DJhU0I,when the party's over,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,2019-03-29,196077,88,False,,Darkroom/Interscope Records,0.367,0.111,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,4
+spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),"Sam Smith,Normani",2019-01-11,171029,75,False,soft pop,PLG - Capitol,0.741,0.52,-7.513,1,0.0656,0.447,1.97e-06,0.222,0.347,102.998,4
+spotify:track:0rIAC4PXANcKmitJfoqmVm,Motivation,Motivation,Normani,2019-08-16,193837,69,False,,Keep Cool/RCA Records,0.599,0.887,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,4
+spotify:track:2OpBganfGk2GVdSlRdxzaX,Better,Suncity,Khalid,2018-10-19,229320,81,True,,"Right Hand Music Group, LLC/RCA Records",0.695,0.586,-10.315,0,0.0658,0.102,0.317,0.113,0.112,98.035,4
+spotify:track:7f5trao56t7sB7f14QDTmp,Juicy,Hot Pink,"Doja Cat,Tyga",2019-11-07,203093,71,True,,Kemosabe Records/RCA Records,0.785,0.652,-2.607,1,0.0668,0.102,0.0,0.0697,0.484,170.024,4
+spotify:track:0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),lovely (with Khalid),"Billie Eilish,Khalid",2018-04-19,200185,90,False,,Darkroom,0.351,0.296,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,4
+spotify:track:5KBARWIxeMGkvUax9VtVC9,My Type,ICY,Saweetie,2019-03-29,126446,74,True,,ICY/Artistry Records/Warner Records,0.899,0.811,-6.294,1,0.258,0.000677,0.0,0.0672,0.587,105.038,4
+spotify:track:2bjUEg4jBtKBlPdNrTAppI,Easier,CALM,5 Seconds of Summer,2020-03-27,158098,71,False,,5 Seconds Of Summer/Interscope,0.562,0.46,-4.173,1,0.259,0.476,0.0,0.107,0.623,176.055,4
+spotify:track:27rdGxbavYJeBphck5MZAF,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like a Heart (feat. Miley Cyrus),"Mark Ronson,Miley Cyrus",2018-11-30,217466,74,False,,Columbia,0.601,0.794,-5.844,0,0.0671,0.00987,1.36e-06,0.388,0.244,114.066,4
+spotify:track:6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,How Do You Sleep?,Sam Smith,2019-07-19,202204,70,False,soft pop,PLG - Capitol,0.561,0.682,-4.931,0,0.0856,0.153,0.0,0.0763,0.359,165.944,4
+spotify:track:1tNJrcVe6gwLEiZCtprs1u,3 Nights,Don't Forget About Me Demos,Dominic Fike,2018-10-16,177666,75,False,,Columbia,0.815,0.518,-6.594,0,0.0897,0.223,0.0,0.104,0.877,151.891,4
+spotify:track:7LpMG3AEaIJgs62HQhAa91,i'm so tired...,~how i'm feeling~,"Lauv,Troye Sivan",2020-03-06,162586,74,False,,Lauv,0.548,0.735,-7.572,1,0.236,0.173,0.0,0.195,0.498,101.252,4
+spotify:track:2GGMabyHXnJmjY6CXhhB2e,Money,Money,Cardi B,2018-10-23,183527,75,True,,Atlantic/KSR,0.95,0.59,-6.508,0,0.29,0.00534,0.0,0.11,0.219,130.003,4
+spotify:track:5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Never Really Over,Katy Perry,2019-05-31,223523,71,False,pop,Capitol Records,0.77,0.882,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,4
+spotify:track:1dGr1c8CrMLDpV6mPbImSI,Lover,Lover,Taylor Swift,2019-08-23,221306,87,False,,Taylor Swift,0.359,0.543,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,4
+spotify:track:3HWzoMvoF3TQfYg4UPszDq,Truth Hurts,Cuz I Love You (Super Deluxe),Lizzo,2019-04-19,173325,74,True,,Nice Life/Atlantic,0.715,0.624,-3.046,0,0.114,0.11,0.0,0.123,0.412,158.087,4
+spotify:track:6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),Free Spirit,"Khalid,Disclosure",2019-04-05,197573,74,False,house,"Right Hand Music Group, LLC/RCA Records",0.9,0.4,-8.575,1,0.127,0.0516,0.0,0.0599,0.346,135.984,4
+spotify:track:4SSnFejRGlZikf02HLewEF,bury a friend,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,Billie Eilish,2019-03-29,193143,78,False,,Darkroom/Interscope Records,0.905,0.389,-14.505,1,0.332,0.74,0.162,0.106,0.196,120.046,4
+spotify:track:073ILU1C3APNRGF66VhtyA,Liar,Romance,Camila Cabello,2019-12-06,207038,66,False,,Syco Music/Epic,0.74,0.498,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,4
+spotify:track:6QQtHdz4PNJWQX4nrAQGC9,Slide Away,SHE IS COMING,Miley Cyrus,2019-05-31,233654,69,False,,RCA/Legacy,0.534,0.538,-6.673,1,0.0327,0.173,2.82e-06,0.248,0.289,148.016,4
+spotify:track:22vgEDb5hykfaTwLuskFGD,Sucker,Happiness Begins,Jonas Brothers,2019-06-07,181026,83,False,,Jonas Brothers Recording,0.842,0.734,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4
+spotify:track:5WHTFyqSii0lmT9R21abT8,Don't Call Me Up,Ivy To Roses (Mixtape),Mabel,2019-01-18,178480,76,False,,Polydor Records,0.674,0.881,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,4
+spotify:track:1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,Lover,Taylor Swift,2019-08-23,178426,92,False,,Taylor Swift,0.552,0.702,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,4
+spotify:track:2qxmye6gAegTMjLKEBoR3d,Let Me Down Slowly,Narrated For You,Alec Benjamin,2018-11-16,169353,84,False,,2018,0.652,0.557,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,4
+spotify:track:6LsAAHotRLMOHfCsSfYCsz,If I Can't Have You,If I Can't Have You,Shawn Mendes,2019-05-03,190800,69,False,,Island Records,0.69,0.809,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,4
+spotify:track:7dt6x5M1jzdTEt8oCbisTK,Better Now,beerbongs & bentleys,Post Malone,2018-04-27,231266,83,True,,Republic Records,0.674,0.578,-5.804,1,0.0408,0.331,0.0,0.135,0.34,145.07,4
+spotify:track:6ImEBuxsbuTowuHmg3Z2FO,Mad Love,High Expectations,Mabel,2019-08-02,169813,65,False,,Polydor Records,0.623,0.796,-2.981,0,0.199,0.659,0.0,0.115,0.607,197.524,4
+spotify:track:6RRNNciQGZEXnqk8SQ9yv5,You Need To Calm Down,Lover,Taylor Swift,2019-08-23,171360,80,False,,Taylor Swift,0.771,0.671,-5.617,1,0.0553,0.00929,0.0,0.0637,0.714,85.026,4
+spotify:track:7DnAm9FOTWE3cUvso43HhI,Sweet but Psycho,Heaven & Hell,Ava Max,2020-09-18,187436,84,False,,Atlantic Records,0.72,0.706,-4.719,1,0.0473,0.0684,0.0,0.166,0.62,133.002,4
+spotify:track:4a9tbd947vo9K8Vti9JwcI,Boy With Luv (feat. Halsey),MAP OF THE SOUL : PERSONA,"BTS,Halsey",2019-04-12,229773,80,False,k-pop,BIGHIT MUSIC,0.645,0.862,-4.761,0,0.0845,0.0933,0.0,0.193,0.803,119.947,4
+spotify:track:7xQAfvXzm3AkraOtGPWIZg,Wow.,Hollywood's Bleeding,Post Malone,2019-09-06,149546,80,True,,Republic Records,0.829,0.538,-7.359,0,0.212,0.137,1.88e-06,0.103,0.389,99.952,4
+spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Don't Start Now,Dua Lipa,2019-10-31,183290,77,False,pop,Warner Records,0.794,0.793,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,4
+spotify:track:6KgBpzTuTRPebChN0VTyzV,Good as Hell,Cuz I Love You (Super Deluxe),Lizzo,2019-04-17,159735,73,False,,Nice Life/Atlantic,0.682,0.919,-3.18,0,0.0875,0.256,0.0,0.442,0.535,95.982,4
+spotify:track:4Of7rzpRpV1mWRbhp5rAqG,Bruises,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,220492,82,False,soft pop,Vertigo Berlin,0.736,0.308,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,4
+spotify:track:56JyMaElW79S7TDWh1Zw1m,On A Roll,On A Roll,Ashley O,2019-06-14,154447,55,False,,RCA Records Label,0.736,0.81,-6.354,1,0.0906,0.077,0.0,0.0523,0.387,125.011,4

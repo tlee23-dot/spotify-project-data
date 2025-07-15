@@ -1,0 +1,51 @@
+Track URI,Track Name,Album Name,Artist Name(s),Release Date,Duration (ms),Popularity,Explicit,Genres,Record Label,Danceability,Energy,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Time Signature
+spotify:track:4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Happier Than Ever,Billie Eilish,2021-07-30,298899,87,True,,Darkroom/Interscope Records,0.332,0.225,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,3
+spotify:track:61KpQadow081I2AsbeLcsb,deja vu,deja vu,Olivia Rodrigo,2021-04-01,215507,14,True,,Olivia Rodrigo PS,0.439,0.61,-7.236,1,0.116,0.593,1.07e-05,0.341,0.172,181.088,4
+spotify:track:3YJJjQPAbDT7mGpX3WtQ9A,Good Days,Good Days,SZA,2020-12-25,279204,78,True,r&b,Top Dawg Entertainment/RCA Records,0.436,0.655,-8.37,0,0.0583,0.499,8.1e-06,0.688,0.412,121.002,4
+spotify:track:5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),STAY (with Justin Bieber),"The Kid LAROI,Justin Bieber",2021-07-09,141805,83,True,,Columbia,0.591,0.764,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,4
+spotify:track:37BZB0z9T8Xu7U3e65qxFy,Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),"The Weeknd,Ariana Grande",2021-04-23,191013,81,False,pop,Republic Records,0.65,0.825,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,4
+spotify:track:748mdHapucXQri7IAO8yFK,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),"Doja Cat,SZA",2021-04-09,208866,21,True,r&b,Kemosabe Records/RCA Records,0.762,0.701,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,4
+spotify:track:6PERP62TejQjgHu81OHxgM,good 4 u,good 4 u,Olivia Rodrigo,2021-05-14,178147,24,True,,Olivia Rodrigo PS,0.556,0.661,-5.052,0,0.204,0.3,0.0,0.101,0.668,168.56,4
+spotify:track:3Wrjm47oTz2sjIgck11l5e,Beggin',Chosen,Måneskin,2017-12-08,211560,87,False,,RCA Records Label,0.714,0.8,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,4
+spotify:track:7MAibcTli4IisCtbHKrGMh,Leave The Door Open,Leave The Door Open,"Bruno Mars,Anderson .Paak,Silk Sonic",2021-03-05,242096,6,False,,Aftermath Entertainment/Atlantic,0.586,0.616,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4
+spotify:track:4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justice,"Justin Bieber,Daniel Caesar,GIVĒON",2021-03-19,198081,83,True,r&b,RBMG/Def Jam,0.677,0.696,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,4
+spotify:track:7lPN2DXiMsVn7XUKtOW1CS,drivers license,drivers license,Olivia Rodrigo,2021-01-08,242013,26,True,,Olivia Rodrigo PS,0.585,0.436,-8.761,1,0.0601,0.721,1.31e-05,0.105,0.132,143.874,4
+spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,Heartbreak Anniversary,TAKE TIME,GIVĒON,2020-03-27,198370,80,False,r&b,Epic/Not So Fast,0.449,0.465,-8.964,1,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3
+spotify:track:67BtfxlNbhBmCDR2L2l8qd,MONTERO (Call Me By Your Name),MONTERO (Call Me By Your Name),Lil Nas X,2021-03-31,137875,73,True,,Columbia,0.61,0.508,-6.682,0,0.152,0.297,0.0,0.384,0.758,178.818,4
+spotify:track:6Im9k8u9iIzKMrmV7BWtlF,34+35,Positions,Ariana Grande,2020-10-30,173710,79,True,pop,Republic Records,0.83,0.585,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,4
+spotify:track:6Uj1ctrBOjOas8xZXGqKk4,Woman,Planet Her,Doja Cat,2021-06-25,172626,84,True,,Kemosabe Records/RCA Records,0.824,0.764,-4.175,0,0.0854,0.0888,0.00294,0.117,0.881,107.998,4
+spotify:track:463CkQjx2Zk1yXoBuierM9,Levitating (feat. DaBaby),Levitating (feat. DaBaby),"Dua Lipa,DaBaby",2020-10-01,203064,71,False,pop,Warner Records,0.702,0.825,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,4
+spotify:track:6tDDoYIxWvMLTdKpjFkc1B,telepatía,Sin Miedo (del Amor y Otros Demonios) ∞,Kali Uchis,2020-12-04,160191,86,False,,EMI / Interscope,0.653,0.524,-9.016,0,0.0502,0.112,0.0,0.203,0.553,83.97,4
+spotify:track:0gplL1WMoJ6iYaPgMCL0gX,Easy On Me,Easy On Me,Adele,2021-10-14,224694,81,False,soft pop,Columbia,0.604,0.366,-7.519,1,0.0282,0.578,0.0,0.133,0.13,141.981,4
+spotify:track:5enxwA8aAbwZbf5qCHORXi,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,613026,83,True,,Taylor Swift,0.631,0.518,-8.771,1,0.0303,0.274,0.0,0.088,0.205,93.023,4
+spotify:track:3UoULw70kMsiVXxW0L3A33,pov,Positions,Ariana Grande,2020-10-30,201882,76,False,pop,Republic Records,0.487,0.534,-5.664,0,0.0555,0.36,0.0,0.1,0.173,131.798,4
+spotify:track:4S4QJfBGGrC8jRIjJHf1Ka,Pain,to hell with it,PinkPantheress,2021-10-15,98544,86,False,bedroom pop,Parlophone UK,0.829,0.617,-8.497,1,0.14,0.227,0.00306,0.0618,0.81,125.605,4
+spotify:track:60ynsPSSKe6O3sfwRnIBRf,Streets,Hot Pink,Doja Cat,2019-11-07,226986,85,True,,Kemosabe Records/RCA Records,0.749,0.463,-8.433,1,0.0842,0.21,0.0382,0.338,0.189,90.035,4
+spotify:track:6PQ88X9TkUIAUIZJHW2upE,Bad Habits,Bad Habits,Ed Sheeran,2021-06-25,231041,13,False,soft pop,Atlantic Records UK,0.808,0.897,-3.712,0,0.0348,0.0469,3.14e-05,0.364,0.591,126.026,4
+spotify:track:0lx2cLdOt3piJbcaXIV74f,willow,evermore,Taylor Swift,2020-12-11,214706,77,False,,Taylor Swift,0.392,0.574,-9.195,1,0.17,0.833,0.00179,0.145,0.529,81.112,4
+spotify:track:3VqeTFIvhxu3DIe4eZVzGq,Butter,Butter,BTS,2021-05-21,164441,4,False,k-pop,BIGHIT MUSIC / HYBE,0.759,0.459,-5.187,1,0.0948,0.00323,0.0,0.0906,0.695,109.997,4
+spotify:track:3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,Astronaut In The Ocean,Masked Wolf,2021-01-06,132780,74,True,,Elektra (NEK),0.778,0.695,-6.865,0,0.0913,0.175,0.0,0.15,0.472,149.996,4
+spotify:track:40iJIUlhi6renaREYGeIDS,Fair Trade (with Travis Scott),Certified Lover Boy,"Drake,Travis Scott",2021-09-03,291175,82,True,rap,OVO,0.666,0.465,-8.545,1,0.26,0.0503,0.0,0.215,0.292,167.937,4
+spotify:track:4pt5fDVTg5GhEvEtlz9dKk,I WANNA BE YOUR SLAVE,Teatro d'ira - Vol. I,Måneskin,2021-03-19,173346,85,True,,RCA Records Label,0.75,0.608,-4.008,1,0.0387,0.00165,0.0,0.178,0.958,132.507,4
+spotify:track:10hcDov7xmcRviA8jLwEaI,Need to Know,Need to Know,Doja Cat,2021-06-11,210560,6,True,,Kemosabe Records/RCA Records,0.664,0.609,-6.509,1,0.0707,0.304,0.0,0.0926,0.194,130.041,4
+spotify:track:2Xr1dTzJee307rmrkt8c0g,love nwantiti (ah ah ah),CKay The First,CKay,2019-08-30,145800,80,True,"afrobeats,afrobeat,afro r&b,afropop",Chocolate City Music,0.727,0.739,-3.805,1,0.0411,0.365,0.00137,0.161,0.533,93.005,4
+spotify:track:5JCoSi02qi3jJeHdZXMmR8,favorite crime,SOUR,Olivia Rodrigo,2021-05-21,152666,85,False,,Olivia Rodrigo PS,0.369,0.272,-10.497,1,0.0364,0.866,0.0,0.147,0.218,172.929,4
+spotify:track:3FeVmId7tL5YN8B7R3imoM,My Universe,My Universe,"Coldplay,BTS",2021-09-24,228000,78,False,k-pop,Parlophone UK,0.588,0.701,-6.39,1,0.0402,0.00813,0.0,0.2,0.443,104.988,4
+spotify:track:7hU3IHwjX150XLoTVmjD0q,MONEY,LALISA,LISA,2021-09-10,168227,76,True,k-pop,YG Entertainment/Interscope Records,0.831,0.554,-9.998,0,0.218,0.161,6.12e-05,0.152,0.396,140.026,4
+spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,INDUSTRY BABY (feat. Jack Harlow),MONTERO,"Lil Nas X,Jack Harlow",2021-09-17,212352,77,True,,Columbia,0.741,0.691,-7.395,0,0.0672,0.0221,0.0,0.0476,0.892,150.087,4
+spotify:track:0RbW8kWozrVSIGb4V13o0o,Hurricane,Donda,Kanye West,2021-08-29,243187,6,False,rap,Rock The World/IDJ/Kanye LP7,0.587,0.561,-6.569,1,0.146,0.0466,0.0,0.109,0.351,80.009,4
+spotify:track:4u4NyuceXP7Uzh7XFJKCr1,Hold On,Hold On,Justin Bieber,2021-03-05,170813,69,False,,RBMG/Def Jam,0.658,0.634,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,4
+spotify:track:4fSIb4hdOQ151TILNsSEaF,Todo De Ti,Todo De Ti,Rauw Alejandro,2021-05-20,199604,76,True,"reggaeton,urbano latino,trap latino,latin",Sony Music Latin/Duars Entertainment,0.78,0.718,-3.605,0,0.0506,0.31,0.000163,0.0932,0.342,127.949,4
+spotify:track:0k4d5YPDr1r7FX77VdqWez,You Right,Planet Her,"Doja Cat,The Weeknd",2021-06-25,186173,80,True,,Kemosabe Records/RCA Records,0.828,0.621,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,4
+spotify:track:1mSdbey7RstGLY2udgXv74,Essence (feat. Justin Bieber & Tems),Essence (feat. Justin Bieber & Tems),"Wizkid,Justin Bieber,Tems",2021-08-13,263288,62,False,"afrobeats,afrobeat,afropop,azonto,afroswing,afro r&b,afropiano,alté",Starboy/RCA Records,0.835,0.691,-5.828,1,0.113,0.0159,1.44e-05,0.108,0.581,103.999,4
+spotify:track:5qNh5WtzMbfpSj2jLlBkoD,Your Power,Your Power,Billie Eilish,2021-04-29,245896,1,False,,Darkroom/Interscope Records,0.634,0.285,-14.007,0,0.0807,0.937,0.000359,0.232,0.203,129.65,4
+spotify:track:3USxtqRwSYz57Ewm6wWRMp,Heat Waves,Dreamland,Glass Animals,2020-08-07,238805,91,False,,Polydor Records,0.761,0.525,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4
+spotify:track:6f3Slt0GbA2bPZlz0aIFXN,The Business,The Business,Tiësto,2020-09-16,164000,77,False,"edm,trance,big room,house,dance",Atlantic Records,0.798,0.62,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,4
+spotify:track:1XXimziG1uhM0eDNCZCrUl,Up,Up,Cardi B,2021-02-05,156944,69,True,,Atlantic Records,0.868,0.795,-6.044,1,0.269,0.0012,0.0193,0.0461,0.819,166.0,4
+spotify:track:079Ey5uxL04AKPQgVQwx5h,Baila Conmigo (with Rauw Alejandro),Revelación - EP,"Selena Gomez,Rauw Alejandro",2021-03-12,186087,68,False,"reggaeton,urbano latino,trap latino,latin",Selena Gomez Latin Project,0.823,0.544,-7.132,1,0.0715,0.0215,0.00315,0.0966,0.664,149.903,4
+spotify:track:2JPLbjOn0wPCngEot2STUS,Yonaguni,Yonaguni,Bad Bunny,2021-06-04,206710,81,True,"reggaeton,trap latino,urbano latino,latin",Rimas Entertainment LLC,0.644,0.648,-4.601,1,0.118,0.276,0.0,0.135,0.44,179.951,4
+spotify:track:0A1hoCfMLkiAgvhWkkucJa,Body,Good News,Megan Thee Stallion,2020-11-20,171067,72,True,,300 Entertainment,0.914,0.732,-6.1,0,0.241,0.0166,0.0,0.107,0.469,94.066,4
+spotify:track:35mvY5S1H3J2QZyna3TFe0,positions,Positions,Ariana Grande,2020-10-30,172324,81,True,pop,Republic Records,0.737,0.802,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4
+spotify:track:5CZ40GBx1sQ9agT82CLQCT,traitor,SOUR,Olivia Rodrigo,2021-05-21,229226,89,False,,Olivia Rodrigo PS,0.38,0.339,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,4
+spotify:track:4Ld4kbKo1eOzToQ0P8JA0V,Arcade (feat. FLETCHER),Small Town Boy,"Duncan Laurence,FLETCHER",2020-11-27,187453,69,False,,"Universal Music, a division of Universal International Music BV",0.446,0.395,-9.328,1,0.0365,0.815,0.00216,0.128,0.267,71.944,3
+spotify:track:7BoobGhD4x5K96Me0hqC8Q,Build a Bitch,Build a Bitch,Bella Poarch,2021-05-14,122772,72,True,,Warner Records,0.855,0.463,-7.454,1,0.0367,0.217,1.77e-05,0.347,0.866,102.931,4

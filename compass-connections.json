@@ -1,0 +1,45 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "21581ad2-544b-4cfe-920d-1fc15c26231f",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1752533279485"
+        }
+      },
+      "favorite": {
+        "name": "Spotify_Lyrics"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "b31d29a3-e389-44e9-b86f-156a29a7c53c",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1752458275904"
+        }
+      },
+      "favorite": {
+        "name": "main",
+        "color": "color2"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
